@@ -18,7 +18,7 @@
 # ============================================================================
 
 # Azure region where all lab resources are created.
-export LAB_LOCATION="${LAB_LOCATION:-centralus}"
+export LAB_LOCATION="${LAB_LOCATION:-eastus}"
 
 # Prefix applied to every resource group this lab creates. Keeps lab resources
 # easy to spot in the portal and easy to delete when you're done.
